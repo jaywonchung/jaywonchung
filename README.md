@@ -1,6 +1,6 @@
 ### Welcome to Jae-Won's profile 🎉
 
-An undergraduate interested in **software systems and deep learning**. Also a fingerstyle guitar player. 
+Ph.D. student at UMich CSE. Interested in **software systems and deep learning**. Also a fingerstyle guitar player.
 
 
 Also the main TA of [OSSPR2021](https://github.com/swsnu/osspr2021).
